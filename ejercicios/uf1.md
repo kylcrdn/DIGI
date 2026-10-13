@@ -29,3 +29,11 @@ Por ejemplo, en un centro educativo se pueden digitalizar los documentos de los 
 
 2.  Sí, porque la empresa ha cambiado su forma de trabajar mediante un ERP que centraliza la información y mejora la gestión interna. Además, el portal de cliente permite ofrecer nuevos servicios digitales y mejorar la comunicación con los clientes.
 3.  Porque no solo mejora los procesos internos de la empresa, sino que también ofrece un servicio digital directamente a los clientes. Estos pueden consultar sus proyectos, descargar facturas y abrir tickets de soporte online sin tener que contactar directamente con la empresa por correo electrónico o teléfono.
+
+## EC1.5
+
+| Fuerza                                       | Resumen (1 frase)                                                                              | Ejemplo del sector TIC                                                                                |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1. Avances tecnológicos                      | La tecnología ha evolucionado, permitiendo digitalizar tareas de forma más rápida y económica. | Una empresa de software utiliza inteligencia artificial para detectar errores en el código.           |
+| 2. Conectividad                              | Internet permite conectar personas, dispositivos y sistemas desde cualquier lugar.             | Un equipo de programadores trabaja en el mismo proyecto utilizando GitHub desde diferentes países.    |
+| 3. Cambio en las necesidades de los clientes | Los clientes esperan servicios digitales rápidos, accesibles y personalizados.                 | Una consultora IT ofrece a sus clientes un portal online para consultar el progreso de sus proyectos. |
