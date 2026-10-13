@@ -21,3 +21,11 @@ Por ejemplo, en un centro educativo se pueden digitalizar los documentos de los 
 | 3   | Una pyme TIC empieza a usar correo electrónico en lugar de fax.                                                | x   |     |     |
 | 4   | Un departamento de sistemas escanea todas las facturas en papel y las sube a un sistema de gestión documental. |     | x   |     |
 | 5   | Una app de gestión de proyectos añade recomendaciones personalizadas con IA para cada equipo.                  |     |     | x   |
+
+## EC1.4
+
+1.  - **Informatización**: Utilizar Excel para hacer presupuestos y enviar facturas en PDF por correo electrónico, ya que se utilizan herramientas informáticas para realizar tareas.
+    - **Digitalización**: Implantar un ERP en la nube que centraliza presupuestos, facturación, proyectos y horas del personal, integrando la información en un sistema digital.
+
+2.  Sí, porque la empresa ha cambiado su forma de trabajar mediante un ERP que centraliza la información y mejora la gestión interna. Además, el portal de cliente permite ofrecer nuevos servicios digitales y mejorar la comunicación con los clientes.
+3.  Porque no solo mejora los procesos internos de la empresa, sino que también ofrece un servicio digital directamente a los clientes. Estos pueden consultar sus proyectos, descargar facturas y abrir tickets de soporte online sin tener que contactar directamente con la empresa por correo electrónico o teléfono.
